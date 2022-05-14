@@ -9,4 +9,5 @@ Pull при большом колличестве серверов. Больша
 
 ![img_2.png](img_2.png)  
 
-4. 
+4.
+![image](https://user-images.githubusercontent.com/95294651/168427150-ae69e233-f048-46b0-8eae-820568e84b10.png)
